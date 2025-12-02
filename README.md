@@ -3,6 +3,7 @@
 This project is built with the Vue starter kit so it uses Vue + TS for the frontend. Laravel and Vue are glued with Inertia.js and the real-time functionality is done with Reverb
 
 ## 📦 Features
+- Basic necessary features that come with the Vue starter kit
 - Real-time messaging
 - SPA navigation with Vue + TS
 - Laravel backend with Inertia.js integration
